@@ -1,0 +1,24 @@
+[submodule "Verbatex"]
+	path = Verbatex
+	url = https://github.com/DanEdens/Verbatex.git
+[submodule "AnathemaHexVault"]
+	path = AnathemaHexVault
+	url = https://github.com/DanEdens/AnathemaHexVault.git
+[submodule "ContextOfficium"]
+	path = ContextOfficium
+	url = https://github.com/DanEdens/ContextOfficium.git
+[submodule "EntropyVector"]
+	path = EntropyVector
+	url = https://github.com/DanEdens/EntropyVector.git
+[submodule "Fragmentarium"]
+	path = Fragmentarium
+	url = https://github.com/DanEdens/Fragmentarium.git
+[submodule "Ludomancery"]
+	path = Ludomancery
+	url = https://github.com/DanEdens/Ludomancery.git
+[submodule "PhilosophersAmpoule"]
+	path = PhilosophersAmpoule
+	url = https://github.com/DanEdens/PhilosophersAmpoule.git
+[submodule "RunedManifold"]
+	path = RunedManifold
+	url = https://github.com/DanEdens/RunedManifold.git
