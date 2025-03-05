@@ -1,26 +1,6 @@
-# Fragmentarium
+# Mad Tasker Tinkerbox Projects
 
-Clipboard management and text snippet tools for Tasker.
-
-## Components
-- ClipGPT - AI-assisted clipboard processing
-- Clipboard - Core clipboard management functionality
-- SnippetManager - Tool for managing and organizing text snippets
-- HistoryTracker - Tracks clipboard history with advanced search capabilities
-- ContextAnalyzer - Analyzes text context for better snippet suggestions
-
-## Features
-- Clipboard history tracking
-- Smart text fragment extraction
-- Snippet categorization and retrieval
-- Integration with AI for context-aware processing
-
-## Usage
-Import these projects to enhance clipboard functionality on your Android device.
-
-# Tasker Projects
-
-A collection of automation projects for Android using Tasker.
+A collection of automation projects for Android using [Tasker](https://tasker.joaoapps.com/). This is a [Madness Interactive](https://github.com/DanEdens/madness_interactive) project.
 
 ## Projects
 
